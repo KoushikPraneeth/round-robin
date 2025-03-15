@@ -3,7 +3,7 @@
 import axios from 'axios';
 
 // Backend API URL
-const API_URL = 'http://localhost:5001/api';
+const API_URL = 'https://couponhub-backend-n67k.onrender.com';
 
 // LocalStorage key
 const AUTH_KEY = 'adminAuth';
