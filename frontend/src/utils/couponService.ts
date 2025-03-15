@@ -24,7 +24,7 @@ export interface ClaimHistory {
 }
 
 // API URL
-const API_URL = 'http://localhost:5001/api';
+const API_URL = 'https://couponhub-backend-n67k.onrender.com/api';
 
 // LocalStorage key for last claim time
 const LAST_CLAIM_KEY = 'lastClaim';
